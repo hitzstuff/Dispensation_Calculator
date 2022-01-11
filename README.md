@@ -1,6 +1,8 @@
 # Dispensation_Calculator
 Current version: 2.5
 
+Quick download link: https://github.com/hitzshit/Dispensation_Calculator/archive/refs/heads/main.zip
+
 A simple calculator to quickly tally up dispensation amounts.
 
 Depending on the state, tallying up amounts to dispense at a medical marijuana dispensary can be time-consuming.
