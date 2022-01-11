@@ -7,4 +7,4 @@ This tool aims to solve both of those issues.
 
 DIRECTIONS:
 
-Run the executable file in the /dist/ folder.
+Run the shortcut inside the 'Dispensation Calculator' folder.  Alternatively, directly open the executable file from the /dist/ folder.
