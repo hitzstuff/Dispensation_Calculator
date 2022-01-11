@@ -1,4 +1,4 @@
-# Dispensary_Calculator
+# Dispensation_Calculator
 Current version: 2.5
 
 A simple calculator to quickly tally up dispensation amounts.
