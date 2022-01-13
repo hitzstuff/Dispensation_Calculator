@@ -1,5 +1,5 @@
 # Dispensation_Calculator
-Current version: 2.5
+Current version: 3.0
 
 Quick download link: https://github.com/hitzshit/Dispensation_Calculator/archive/refs/heads/main.zip
 
